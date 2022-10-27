@@ -6,25 +6,10 @@
 <link rel-"stylesheet" href="style.css"
 
 <html lang="pt-br">
- 
+ </head>
 
- <style>
- 
- body{
- 
-      backgroug: #CCCCCC
- }
- p {    
-      text-aling: center
-      }
-      
-          em strong { 
-             color: FF0000
-      </style>
-     
-</head>
-<body>
- 
+ <body>
+ <img src="cogumelos.jpg">
 
 _<h1 style=" text-aling: center">Sobre os Cogumelos</h1>_
 
@@ -39,38 +24,3 @@ _<h1 style=" text-aling: center">Sobre os Cogumelos</h1>_
 </html>
 
 
-abcdef. . . .
-
-binario01
-
-numérico 0123456789
-
-hexedecimal 0123456789ABCDEF
-
-RGB= red green blue
-
-#_ _ _ _ _ _
-
-0 = ausencia
-
-F= Máximo
-
-#000000
-
-#FFFFFF
-
-#FF0000
-
-red
-yelow
-blue
-
-RGB 0,1,2,3,. . .255
-
-0= ansencia
-
-255 = máximo 
-
-rgb(255,255,255)
-
-rgb (0,0,255)
