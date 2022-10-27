@@ -9,7 +9,7 @@
  </head>
 
  <body>
- <img src="cogumelos.jpg">
+ <img id="cogumelo" src="cogumelos.jpg">
 
 _<h1 style=" text-aling: center">Sobre os Cogumelos</h1>_
 
