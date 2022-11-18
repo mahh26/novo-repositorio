@@ -1,69 +1,28 @@
-body {
-    background: #CCCCCC
+  body{ 
+      background; #CCCCCC
+}      
+     
+#banner
+widht;100%;
 }
-
-#cogumelos {
 
 h1 {
    text-aling: center
 }
-
-p{
-  text-aling: center;
-  
-  
-#sobre { 
-font-size: 20px
-  em strong {
- color: # FF0000;
-  }
-  
-abcdef. . . .
-
-binario01
-
-numérico 0123456789
-
-hexedecimal 0123456789ABCDEF
-
-RGB= red green blue
-
-#_ _ _ _ _ _
-
-0 = ausencia
-
-F= Máximo
-
-#000000
-
-#FFFFFF
-
-#FF0000
-
-red
-yelow
-blue
-
-RGB 0,1,2,3,. . .255
-
-0= ansencia
-
-255 = máximo 
-
-rgb(255,255,255)
-
-rgb (0,0,255)
+p {  
+         
+text-aling: center;
+}   
     
-<style>
- 
- body{
- 
-      backgroug: #CCCCCC
- }
- p {    
-      text-aling: center
-      }
-      
-          em strong { 
+   #missao {
+    font-size: 20px
+}
+
+ em strong { 
              color: FF0000
-      </style>
+}                 
+                 
+.itens {  
+font-style: italic  
+    
+    
