@@ -7,7 +7,8 @@ widht;100%;
 }
 
 .principal{
-     background; #CCCCCC
+     background; #CCCCCC;
+  padding: 30px;
 }
 h1 {
    text-aling: center
@@ -31,6 +32,8 @@ font-style: italic
     
 .beneficios{
    background: #FFFFFF;
+padding:20px ;
+
 }
 
 
@@ -39,6 +42,10 @@ text-aling: center;
 }
 ul {
 display:inline-block ;  
+ vertical-aling: top;
+width: 20%
+  margin-right: 15;
 .imagembeneficios{
+ 
 }
 width: 50% ;
