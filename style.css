@@ -10,7 +10,7 @@ widht;100%;
      background; #CCCCCC;
   padding: 30px;
 }
-h1 {
+.titulo-centralizado{
    text-aling: center
 }
 p {  
@@ -34,10 +34,7 @@ font-style: italic
    background: #FFFFFF;
 padding:20px ;
 
-}
 
-
-h2{
 text-aling: center;
 }
 ul {
